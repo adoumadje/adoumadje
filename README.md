@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adoumadje Caleb
-- 👀 I’m interested in Software development with main focus on web with Angular and Spring Framework
+- 👀 I’m interested in Software development with main focus on web with Angular and SpringBoot
 - 📫 How to reach me: adoumadjecaleb@gmail.com
 <!---
 adoumadje/adoumadje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
