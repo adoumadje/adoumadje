@@ -3,7 +3,7 @@
 🚀 Check out my [Portfolio](https://https://github.com/adoumadje) <br>
 :briefcase: Or Have a look at my pinned projects bellow. And feel free to explore my other repositories as well
 
-I'm Caleb, a passionate developer with a keen interest in building dynamic web applications using Spring and Angular frameworks. I am enthusiastic about leveraging my skills to contribute effectively to projects and collaborate with talented teams.
+I am Caleb ADOUMADJE, a passionate developer with a keen interest in building dynamic web applications using Spring and Angular frameworks. I am enthusiastic about leveraging my skills to contribute effectively to projects and collaborate with talented teams.
 
 :mailbox: Reach me out: adoumadjecaleb@gmail.com
 
