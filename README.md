@@ -16,7 +16,7 @@ Synchronization, Serialization, Java Annotations, Autoboxing, Java Generics, Jav
 - Frontend: HTML, CSS, JAVASCRIPT, Angular, RxJS, Typescript, PrimeNg, PrimeFlex, Bootstrap, Tailwind, API integration, JSON, XML <br>
 
 - Backend: Java, Spring, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, JDBC, Spring Security, REST API, JSON Web Token(JWT), Websocket(SockJS, STOMP),
-  Lombok, Oauth2 Resource Server, MySQL Database, Postgres Database, Design patterns, SOLID principles, Test Driven Development(TDD) <br>
+  Lombok, Oauth2 Resource Server, MySQL Database, Postgres Database, Design patterns, SOLID principles, Test Driven Development(TDD), Intellij IDEA, Tomcat Server <br>
   
 - Testing: Unit test, Integration test, JUnit, Mockito, AssertJ, Postman for API testing, Selenium (using python) for UI automated Testing <br>
 
