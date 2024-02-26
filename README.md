@@ -21,7 +21,7 @@ Synchronization, Serialization, Java Annotations, Autoboxing, Java Generics, Jav
   
 - Testing: Unit test, Integration test, JUnit, Mockito, AssertJ, Postman for API testing, Selenium (using python) for UI automated Testing <br>
 
-- Devops: Linux, Docker, Docker-Compose, AWS: ECS, EC2, VPC, S3., CI/CD, Github Actions, YAML, Github, GitLab, BitBucket <br>
+- Devops: Linux, Docker, Docker-Compose, AWS: ECS, EC2, VPC, S3., CI/CD, Github Actions, YAML, Git, Github, GitLab, BitBucket <br>
 
 - Network and network protocols: TCP/IP, HTTP, HTTPS, WS(websocket), DNS, DHCP, Subnet, SSH, OpenSSL, RSA
 
