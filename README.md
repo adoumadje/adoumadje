@@ -8,7 +8,7 @@ I am Caleb ADOUMADJE, a passionate developer with a keen interest in building dy
 :mailbox: Reach me out: adoumadjecaleb@gmail.com
 
 **Technical Proficiency:**<br>
-- Data Structures and Algorithms, Object Oriented Programming, Inheritence, Polymorphism, Encapsulation, Java Collections, Stream API, Concurrency and Multithreading,
+- Data Structures and Algorithms, Object Oriented Programming, Inheritance, Polymorphism, Encapsulation, Java Collections, Stream API, Concurrency and Multithreading,
 Synchronization, Serialization, Java Annotations, Autoboxing, Java Generics, Java file IO <br>
 
 - Programming languages: JAVA, PYTHON, C/C++, JAVASCRIPT, Bash Scripting <br>
